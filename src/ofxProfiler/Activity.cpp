@@ -1,6 +1,7 @@
 #include "Activity.h"
 #include "ofLog.h"
 #include "ofUtils.h"
+#include <math.h>
 
 using namespace std::chrono;
 
